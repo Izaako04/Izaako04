@@ -30,4 +30,6 @@ Además de mis proyectos individuales, también he colaborado en varios proyecto
 
 Si deseas discutir algún proyecto, colaborar o simplemente conectar, no dudes en contactarme a través de [isaac.criollo04@gmail.com] o [ivcrioll@espol.edu.ec].
 
+![QR](frame.png)
+
 ¡Gracias por visitar mi portafolio! Espero que encuentres algo que despierte tu interés.
