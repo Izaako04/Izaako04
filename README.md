@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izaako04&label=Profile%20views&color=0e75b6&style=flat" alt="izaaako" /> </p>
 
-# Portafolio de Proyectos de Isaac Criollo
+## Portafolio de Proyectos de Isaac Criollo
 
 Bienvenido a mi repositorio de proyectos, donde podrás explorar mis trabajos y habilidades en programación. Aquí encontrarás una variedad de aplicaciones y soluciones que he desarrollado, cada una mostrando mi enfoque para resolver problemas y mi pasión por la tecnología.
 
@@ -54,20 +54,19 @@ Además de mis proyectos individuales, también he colaborado en varios proyecto
 <h3 align="left">Contacto conmigo!:</h3>
 Si deseas discutir algún proyecto, colaborar o simplemente conectar, no dudes en contactarme a través de
 isaac.criollo04@gmail.com o ivcrioll@espol.edu.ec.
+<a href="https://www.linkedin.com/in/isaac-criollo-545b47278/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaacLI" height="30" width="40" /></a>
+<a href="https://instagram.com/isaac.criollo04" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elihanmc10" height="30" width="40" /></a>
+
 <br>
-<a href="https://www.linkedin.com/in/isaac-criollo-545b47278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaacLI" height="30" width="40" /></a>
-<a href="https://instagram.com/isaac.criollo04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elihanmc10" height="30" width="40" /></a>
-</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izaako04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="izaako04" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izaako04&show_icons=true&locale=en&layout=compact&theme=dark" alt="izaako04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izaako04&show_icons=true&locale=en&theme=tokyonight" alt="izaak04" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izaako04&theme=dark" alt="izaako04" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izaako04&theme=tokyonight" alt="izaako04" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izaako04&show_icons=true&locale=en&theme=dark" alt="izaak04" /></p>
 
+<p><img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/izaako04/izaako04/main/error.gif"></p>
 
 ![QR](frame.png) 
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/izaako04/izaako04/main/error.gif">
 
 ¡Gracias por visitar mi portafolio! Espero que encuentres algo que despierte tu interés.
