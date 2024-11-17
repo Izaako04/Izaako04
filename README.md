@@ -1,9 +1,9 @@
-![Masterhead] (Izaako04\main.gif)
-
+![Masterhead](https://raw.githubusercontent.com/izaako04/izaako04/main/main.gif)
 
 <h1 align="center">Hola 👋, Soy Isaac Criollo</h1>
 <h3 align="center">Soy un desarrollador de software Ecuatoriano!</h3>
-<img align="right" alt="Coding" width="400" src="Izaako04\code.gif">
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/izaako04/izaako04/main/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izaako04&label=Profile%20views&color=0e75b6&style=flat" alt="izaaako" /> </p>
 
@@ -66,6 +66,8 @@ isaac.criollo04@gmail.com o ivcrioll@espol.edu.ec.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izaako04&theme=tokyonight" alt="izaako04" /></p>
 
 
-![QR](frame.png)
+![QR](frame.png) 
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/izaako04/izaako04/main/error.gif">
 
 ¡Gracias por visitar mi portafolio! Espero que encuentres algo que despierte tu interés.
